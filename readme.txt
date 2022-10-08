@@ -1,1 +1,1 @@
-git is a good thing.
+git is a very good thing.
